@@ -1,2 +1,2 @@
-# converters
-Converters: A collection of JavaScript converters for your convenience.
+# time
+A collection of JavaScript converters for your convenience.
