@@ -1,2 +1,2 @@
-# laraoverflow
-LaraOverflow:  A Stack Overflow clone built with Laravel.
+# converters
+Converters: A collection of JavaScript converters for your convenience.
